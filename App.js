@@ -13,7 +13,7 @@ import {
   PriceText,
   Shop,
   ShopItem,
-} from './Screens/Home/styles';
+} from './styles';
 
 export default function App() {
   const [cookies, setCookies] = React.useState(0);
